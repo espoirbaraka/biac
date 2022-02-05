@@ -1,0 +1,13 @@
+SMAP
+client_jsp.java
+JSP
+*S JSP
+*F
++ 0 client.jsp
+modal/client.jsp
+*L
+1:45
+3,30:47
+32,11:77
+42,64:88
+*E

@@ -1,0 +1,30 @@
+SMAP
+operation_jsp.java
+JSP
+*S JSP
+*F
++ 0 operation.jsp
+operation.jsp
++ 1 header.jsp
+includes/header.jsp
++ 2 aside.jsp
+includes/aside.jsp
++ 3 footer.jsp
+includes/footer.jsp
+*L
+1,41:52
+1#1,62:93
+41#0,2:154
+1#2,93:156
+42#0,39:248
+81,10:288
+90,2:298
+92,5:300,3
+97:315
+98:316,3
+99,3:319
+102:323,2
+103,22:325
+1#3,6:347
+124#0,137:353
+*E

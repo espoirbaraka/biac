@@ -1,0 +1,33 @@
+SMAP
+client_jsp.java
+JSP
+*S JSP
+*F
++ 0 client.jsp
+client.jsp
++ 1 header.jsp
+includes/header.jsp
++ 2 aside.jsp
+includes/aside.jsp
++ 3 footer.jsp
+includes/footer.jsp
+*L
+1:52
+3,30:54
+32,11:84
+42,41:95
+1#1,62:136
+82#0,2:197
+1#2,93:199
+83#0,42:291
+125,10:334
+134,2:344
+136,7:346,3
+143:367
+144,3:368,3
+147,3:377
+150:381,2
+151,22:383
+1#3,6:405
+172#0,135:411
+*E
